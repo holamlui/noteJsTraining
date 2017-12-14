@@ -1,0 +1,18 @@
+{
+  "name": "hellonode.js",
+  "version": "1.0.0",
+  "description": "node.js sharing",
+  "main": "HelloNodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Leo Lui",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mv": "^2.1.1"
+  }
+}
